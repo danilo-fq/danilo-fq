@@ -1,5 +1,5 @@
 <h2 align="center">Seja bem-vindo, me chamo Danilo Ferreira</h2>
-<h3 align="center">Desenvolvedor Front-end | Estudante de Desenvolvimento Web na Trybe</h3>
+<h3 align="left">Desenvolvedor Front-end | Estudante de Desenvolvimento Web na Trybe</h3>
 
 
 
