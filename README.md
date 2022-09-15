@@ -7,7 +7,8 @@
 
 - 💻 Atualmente sou estudante de Desenvolvimento Web  **Back-end**
 
-- Curriculum: [Link - Curriculum](https://gitconnected.com/danilo-fq)
+- Curriculum: [Link](https://gitconnected.com/danilo-fq)
+- LinkedIn: [Link](https://www.linkedin.com/in/danilo-fq/)
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
