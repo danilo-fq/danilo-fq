@@ -5,7 +5,7 @@
 
 - 👨‍🍳📱 Colaborei recentemente, em grupo em um App de Receitas  **[App de Receitas](http://app-receitas-one.vercel.app "App de Receitas")**
 
-- 💻 Atualmente sou estudante de Desenvolvimento Web  **Back-end**
+- 💻 Atualmente sou estudante de Desenvolvimento Web  **Back-end**: POO + Typescript + Node.js
 
 - Curriculum: [Link](https://gitconnected.com/danilo-fq)
 - LinkedIn: [Link](https://www.linkedin.com/in/danilo-fq/)
