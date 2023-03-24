@@ -5,7 +5,7 @@
 
 - 👨‍🍳📱 Colaborei recentemente, em grupo em um App de Receitas  **[App de Receitas](http://app-receitas-one.vercel.app "App de Receitas")**
 
-- 💻 Atualmente sou estudante de Desenvolvimento Web  **Back-end**: POO + Typescript + Node.js
+- 💻 Formado no curso de Formação em Desenvolvimento Web da Trybe
 
 - Curriculum: [Link](https://gitconnected.com/danilo-fq)
 - LinkedIn: [Link](https://www.linkedin.com/in/danilo-fq/)
