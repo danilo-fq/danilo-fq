@@ -7,7 +7,6 @@
 
 - 💻 Formado no curso de Formação em Desenvolvimento Web da Trybe
 
-- Curriculum: [Link](https://gitconnected.com/danilo-fq)
 - LinkedIn: [Link](https://www.linkedin.com/in/danilo-fq/)
 
 
