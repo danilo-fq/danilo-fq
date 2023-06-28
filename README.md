@@ -2,10 +2,9 @@
 <h3 align="left">Desenvolvedor Front-end | Estudante de Desenvolvimento Web na Trybe</h3>
 
 
-
-- 👨‍🍳📱 Colaborei recentemente, em grupo em um App de Receitas  **[App de Receitas](http://app-receitas-one.vercel.app "App de Receitas")**
-
 - 💻 Formado no curso de Formação em Desenvolvimento Web da Trybe
+
+- Estudante de Pós-Graduação em Projetos de Aplicativos Móveis Multiplataformas
 
 - LinkedIn: [Link](https://www.linkedin.com/in/danilo-fq/)
 
