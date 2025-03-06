@@ -1,10 +1,6 @@
 <h2 align="center">Seja bem-vindo, me chamo Danilo Ferreira</h2>
-<h3 align="left">Desenvolvedor Front-end | Estudante de Desenvolvimento Web na Trybe</h3>
+<h3 align="left">Desenvolvedor Full-Stack</h3>
 
-
-- 💻 Formado no curso de Formação em Desenvolvimento Web da Trybe
-
-- Estudante de Pós-Graduação em Projetos de Aplicativos Móveis Multiplataformas
 
 - LinkedIn: [Link](https://www.linkedin.com/in/danilo-fq/)
 
