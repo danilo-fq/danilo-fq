@@ -11,7 +11,7 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
 - 💼 Experiência prática com **WordPress** no dia a dia
-- 🚀 Estudando **Java** para backend e aprofundando conhecimentos em **Next.js** e **TypeScript**
+- 🚀 Aprofundando conhecimentos em **Next.js** e **TypeScript**
 - 🔗 Me encontre no [LinkedIn](https://www.linkedin.com/in/danilo-fq/)
 
 <br/>
